@@ -1,4 +1,6 @@
 # How to build a Django web project
+Huge chunks of code come from the tutorials of [https://www.pythonprogramming.net](https://www.pythonprogramming.net)
+
 
 ## Generate the project structure
  * run ``` django-admin startproject <projectname>``` to generate the project structure
