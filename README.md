@@ -16,5 +16,9 @@ Your localhost is usually  127.0.0.1 and django uses port 8000 for the developme
  You probably want to use include, so import it!
  * run server again and check if the app displays the content on ```127.0.0.1:8000/<appname> ```
 
-## folder structures
+## Folder Structure
 Django collects all files from the directories called static and templates. So you should give the file unique names or use subdirectories.
+
+## Style sheets
+Easiest is to download cascading stylesheets(css) from [bootstrap](https://getbootstrap.com/) and save the template in a static directory.
+But be aware, static file are public!
